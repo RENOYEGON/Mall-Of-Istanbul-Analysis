@@ -99,13 +99,14 @@ An interactive Excel dashboard used to report and explore sales trends can be fo
 - Increase inventory and promotions for Clothing ,Shoes and Technology to drive further sales. 
 - Consider bundling products from these categories to encourage larger purchases. 
 ### 5. Recommendations
-1. Seasonal Promotions: Focus on December for holiday sales and February for post- holiday campaigns.
- 2. Targeted Marketing: Tailor campaigns for females and the 31-45 age group.
- 3. Category Optimization: Increase inventory and promotions for Clothing, shoes and Technology.
- 4. Mall-Specific Strategies: Implement promotions in underperforming malls and months.
-   5. Growth Strategies: Explore new markets or customer segments to boost growth
+- Seasonal Promotions: Focus on December for holiday sales and February for post- holiday campaigns.
+ - Targeted Marketing: Tailor campaigns for females and the 31-45 age group.
+ - Category Optimization: Increase inventory and promotions for Clothing, shoes and Technology.
+- Mall-Specific Strategies: Implement promotions in underperforming malls and months.
+ - Growth Strategies: Explore new markets or customer segments to boost growth
 ### 6. Assumptions and Caveats
-Data for 2022 and 2025 is incomplete (only December and partial January/February data available).
-Growth rates are based on available data and may not reflect full-year performance. External factors (e.g., economic conditions, competition) are not accounted for.
+- Data for 2022 and 2025 is incomplete (only December and partial January/February data available).
+- Growth rates are based on available data and may not reflect full-year performance.
+- External factors (e.g., economic conditions, competition) are not accounted for.
 
 
