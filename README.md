@@ -33,6 +33,7 @@ An interactive Excel dashboard used to report and explore sales trends can be fo
 - 2022: $268,353 (only December data available).
 -  2023: $3,191,954 2024: $3,205,166
 -  2025: $334,627 (partial data for January and February
+ ![Alt Text](images/monthly.png)
 
 #### Metric: 
 - December Contribution: 11.7% of total sales
@@ -52,6 +53,7 @@ An interactive Excel dashboard used to report and explore sales trends can be fo
 #### Data: 
 - Peak Month: March 2023 with $288,636. 
 - Lowest Month: January 2024 with $232,240
+![Alt Text](images/years.png)
 
 #### Metric:
 - Year-over-Year Growth Rate (2023 to 2024): 0.41%.
@@ -66,6 +68,9 @@ An interactive Excel dashboard used to report and explore sales trends can be fo
 - Females: Total Sales = $4,180,679.82
 - Males: Total Sales = $2,819,421.65.
 -  Top Age Group: 31-45 (total sales = $2,035,543.22)
+
+![Alt Text](images/age.png)
+
 #### Metric:
 - Female Contribution: 59.7% of total sales.
 - 31-45 Age Group Contribution: 29.1% of total sales. 
@@ -82,6 +87,7 @@ An interactive Excel dashboard used to report and explore sales trends can be fo
 - Technology: Total Sales = $1,610,416.95. 
 - Shoes: Total Sales = $1,852,343.96.
 
+![Alt Text](images/category.png)
 
 #### Metric:
 - Clothing Contribution: 45.3% of total sales.
